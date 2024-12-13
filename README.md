@@ -1,0 +1,1 @@
+## Não foi possível registrar os estados devido ao fato do wowki estar demorando muito para rodar, se houver o acompanhamento do passo a passo do código é possivel verificar trechos do código cumprindo cada parte - exceto a conexão com HTTP.
